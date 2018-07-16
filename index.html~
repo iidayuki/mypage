@@ -7,11 +7,7 @@
 	</head>
 	
 	<body background="img/back15.gif">
-
-	<img src="img/welcome.gif" width="210" height="88" alt="welcome">
-	<br><br>
-
-	初めてホームページを作ってみた。<br>
+		初めてホームページを作ってみた。<br>
 	
 	<footer>
 		<div id="copyright">Copyright (C) 2018 Yuki IIda. All Rights Reserved.</div>
