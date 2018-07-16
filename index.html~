@@ -6,9 +6,9 @@
                 <link rel="stylesheet" href="stylesheet.css">
 	</head>
 	
-	<body background="mypage/img/back15.gif">
+	<body background="img/back15.gif">
 
-	<img src="mypage/img/welcome.gif" width="210" height="88" alt="welcome">
+	<img src="img/welcome.gif" width="210" height="88" alt="welcome">
 	<br><br>
 
 	初めてホームページを作ってみた。<br>
